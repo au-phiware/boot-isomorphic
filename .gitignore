@@ -1,0 +1,6 @@
+/dist/
+/target/
+/checkouts/
+/node_modules/
+/package.json
+.nrepl-history

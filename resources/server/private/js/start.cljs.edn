@@ -1,0 +1,2 @@
+{:main boot-isomorphic.start
+ :target :nodejs}

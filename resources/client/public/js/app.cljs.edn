@@ -1,0 +1,3 @@
+{:main boot-isomorphic.app
+ :process-shim false
+ :language-out :ecmascript5-strict}
